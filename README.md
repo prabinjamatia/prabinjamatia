@@ -1,6 +1,6 @@
 <h1 align="center">I'm Prabin Jamatia</h1>
 <h3 align="center">UG Computer Science Engineering Student</h3>
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinjamatia&label=Profile%20views&color=0e75b6&style=flat" alt="prabinjamatia" /> </p>
 
